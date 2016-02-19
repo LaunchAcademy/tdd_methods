@@ -9,3 +9,6 @@ def puzzle(word, guesses = [])
   end
   puzzle.strip
 end
+
+# require 'pry'
+# binding.pry
