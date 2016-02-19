@@ -1,0 +1,4 @@
+- We need a repeatable, reliable way to ensure our programs behave the way we expect them to
+- As our codebase grows, it becomes harder to mentally keep track of all the moving parts and to ensure that you don’t inadvertently break something
+- As users start to use our software more and more, we can get nervous in making changes to our software because it becomes more important for the business to deliver on its promises to customers
+- If we imagine how our code / classes will be used before we implement them, it actually results in better architecture
